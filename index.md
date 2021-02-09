@@ -65,5 +65,6 @@ PRIVACY_POLICY_URL="https://nginx.com/PrivacyPolicy"
 
 
 
-Based on [freedesktop.org/software/systemd/man/os-release.html](https://www.freedesktop.org/software/systemd/man/os-release.html)
+* Based on [freedesktop.org/software/systemd/man/os-release.html](https://www.freedesktop.org/software/systemd/man/os-release.html)
+* [schukai.com](https://www.schukai.com/de/)
 
