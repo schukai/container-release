@@ -61,3 +61,6 @@ BUG_REPORT_URL="https://bugzilla.nginx.com/"
 PRIVACY_POLICY_URL="https://nginx.com/PrivacyPolicy"
 
 
+
+Based on [freedesktop.org/software/systemd/man/os-release.html](https://www.freedesktop.org/software/systemd/man/os-release.html)
+
